@@ -1,0 +1,5 @@
+{
+  "name": "weather app",
+  "description": "A real-time weather application powered by Gemini 2.5 with Google Search Grounding to provide accurate current conditions and short-term forecasts for any city.",
+  "requestFramePermissions": []
+}
